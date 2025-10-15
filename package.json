@@ -1,0 +1,28 @@
+{
+  "name": "first-image-docker",
+  "version": "1.0.0",
+  "description": "Minha primeira api com docker",
+  "keywords": [
+    "node",
+    "docker"
+  ],
+  "homepage": "https://github.com/katharinefernandes/first-image-docker#readme",
+  "bugs": {
+    "url": "https://github.com/katharinefernandes/first-image-docker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katharinefernandes/first-image-docker.git"
+  },
+  "license": "ISC",
+  "author": "Katharine Fernandes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
